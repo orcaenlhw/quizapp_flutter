@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:numbercardgame/main.dart';
+import 'package:quizapp_flutter/main.dart';
 
 class ResultScreen extends StatefulWidget {
   final int score;

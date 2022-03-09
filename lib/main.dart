@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:numbercardgame/data/questions_list.dart';
-import 'package:numbercardgame/screens/result_screen.dart';
+import 'package:quizapp_flutter/data/questions_list.dart';
+import 'package:quizapp_flutter/screens/result_screen.dart';
 
 void main() {
   runApp(const MyApp());

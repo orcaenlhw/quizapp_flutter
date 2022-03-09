@@ -1,4 +1,4 @@
-import 'package:numbercardgame/model/question_model.dart';
+import 'package:quizapp_flutter/model/question_model.dart';
 
 //I just picked the list from the previous project
 // you can create your own list
