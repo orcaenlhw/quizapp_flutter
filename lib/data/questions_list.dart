@@ -64,5 +64,11 @@ List<QuestionModel> questions = [
     "5": false,
     "3": false,
     "10": true,
+  }),
+  QuestionModel("Choose 11 ?", {
+    "111": false,
+    "1": false,
+    "11": true,
+    "0": false,
   })
 ];
