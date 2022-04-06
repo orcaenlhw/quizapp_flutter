@@ -65,7 +65,7 @@ List<QuestionModel> questions = [
     "3": false,
     "10": true,
   }),
-  QuestionModel("Choose 12 ?", {
+  QuestionModel("Choose 11 ?", {
     "111": false,
     "1": false,
     "11": true,
