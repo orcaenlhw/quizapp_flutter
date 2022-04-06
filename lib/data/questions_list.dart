@@ -69,6 +69,6 @@ List<QuestionModel> questions = [
     "111": false,
     "1": false,
     "11": true,
-    "0": false,
+    "0": true,
   })
 ];
